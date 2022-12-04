@@ -1,10 +1,6 @@
 # Daniel Elsborg Johnsen, djohns22@student.aau.dk, cs-22-dvml-1-p1-01
 # Programmet er ikke baseret på fælles arbejde i gruppen
 
-
-
-
-
 # konverterings funktioner
 def integer_to_binary(number):
     print(f'{number:08b}')
